@@ -1,0 +1,3 @@
+﻿  dinfo.cpp
+C:\Users\Smurf\source\repos\Sisteme de operare\dinfo\dinfo.cpp(172,53): warning C4302: 'type cast': truncation from 'LPSTR' to 'char'
+  dinfo.vcxproj -> C:\Users\Smurf\source\repos\Sisteme de operare\dinfo\Debug\dinfo.exe

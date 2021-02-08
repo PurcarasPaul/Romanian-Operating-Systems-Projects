@@ -1,0 +1,3 @@
+﻿  Dialog.cpp
+C:\Users\Smurf\source\repos\Dialog\Dialog.cpp(94,10): warning C4101: 'text': unreferenced local variable
+  Dialog.vcxproj -> C:\Users\Smurf\source\repos\Dialog\Debug\Dialog.exe

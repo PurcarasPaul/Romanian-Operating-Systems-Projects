@@ -1,0 +1,2 @@
+C:\Users\Smurf\source\repos\Process\Debug\Process.exe
+C:\Users\Smurf\source\repos\Process\Debug\Process.pdb

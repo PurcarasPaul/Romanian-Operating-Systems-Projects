@@ -1,0 +1,4 @@
+C:\Users\Smurf\source\repos\Convertor valutar\Debug\Convertor valutar.exe
+C:\Users\Smurf\source\repos\Convertor valutar\Debug\Convertor valutar.pdb
+C:\Users\Smurf\source\repos\Sisteme de operare\Convertor valutar\Debug\Convertor valutar.exe
+C:\Users\Smurf\source\repos\Sisteme de operare\Convertor valutar\Debug\Convertor valutar.pdb

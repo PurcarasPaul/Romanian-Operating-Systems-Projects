@@ -1,0 +1,4 @@
+C:\Users\Smurf\source\repos\Multi2\Debug\Multi2.exe
+C:\Users\Smurf\source\repos\Multi2\Debug\Multi2.pdb
+C:\Users\Smurf\source\repos\Sisteme de operare\Multi2\Debug\Multi2.exe
+C:\Users\Smurf\source\repos\Sisteme de operare\Multi2\Debug\Multi2.pdb

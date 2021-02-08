@@ -1,0 +1,5 @@
+﻿  Receive.cpp
+C:\Users\Smurf\source\repos\Sisteme de operare\Proiect\Receive\Receive.cpp(115,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Smurf\source\repos\Sisteme de operare\Proiect\Receive\Receive.cpp(131,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Smurf\source\repos\Sisteme de operare\Proiect\Receive\Receive.cpp(170,9): warning C4101: 'nr': unreferenced local variable
+  Receive.vcxproj -> C:\Users\Smurf\source\repos\Sisteme de operare\Proiect\Send\Debug\Receive.exe

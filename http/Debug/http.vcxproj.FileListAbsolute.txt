@@ -1,0 +1,2 @@
+C:\Users\Smurf\source\repos\Sisteme de operare\http\Debug\http.exe
+C:\Users\Smurf\source\repos\Sisteme de operare\http\Debug\http.pdb

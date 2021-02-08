@@ -1,0 +1,4 @@
+﻿  Send.cpp
+C:\Users\Smurf\source\repos\Laborator2_Tema1\Send.cpp(75,17): warning C4101: 'ps': unreferenced local variable
+C:\Users\Smurf\source\repos\Laborator2_Tema1\Send.cpp(76,10): warning C4101: 'rect': unreferenced local variable
+  Laborator2_Tema1.vcxproj -> C:\Users\Smurf\source\repos\Laborator2_Tema1\Debug\Send.exe

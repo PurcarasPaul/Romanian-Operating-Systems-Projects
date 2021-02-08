@@ -1,0 +1,4 @@
+C:\Users\Smurf\source\repos\Laborator2_TemaAcasa\Debug\Client.exe
+C:\Users\Smurf\source\repos\Laborator2_TemaAcasa\Debug\Client.pdb
+C:\Users\Smurf\source\repos\Sisteme de operare\Laborator2_TemaAcasa\Debug\Client.exe
+C:\Users\Smurf\source\repos\Sisteme de operare\Laborator2_TemaAcasa\Debug\Client.pdb

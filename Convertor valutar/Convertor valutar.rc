@@ -1,0 +1,127 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (United States) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG DIALOGEX 0, 0, 469, 176
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "Convertor valutar"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Iesire",ID_CANCEL,209,140,50,14
+    GROUPBOX        "Cursul Valutar",IDC_STATIC,22,23,94,95
+    GROUPBOX        "Initial",IDC_STATIC,131,23,158,112
+    GROUPBOX        "Final",IDC_STATIC,304,23,141,112
+    LTEXT           "Euro",IDC_STATIC,32,39,32,9
+    LTEXT           "Dolar",IDC_STATIC,32,60,32,9
+    EDITTEXT        IDC_EDIT_EURO,58,36,54,13,ES_AUTOHSCROLL | ES_READONLY | ES_NUMBER
+    EDITTEXT        IDC_EDIT_DOLAR,58,58,54,13,ES_AUTOHSCROLL | ES_READONLY | ES_NUMBER
+    PUSHBUTTON      "Schimba cursul",IDC_BUTTON_SCHIMB_CURS,35,90,67,15
+    LTEXT           "Introduceti suma",IDC_STATIC,140,39,61,11
+    LTEXT           "Moneda",IDC_STATIC,140,60,81,11
+    EDITTEXT        IDC_EDIT_SUMA,204,36,80,14,ES_AUTOHSCROLL | ES_NUMBER
+    PUSHBUTTON      "Converteste",IDC_BUTTON_CONVERT,204,111,67,15
+    CONTROL         "RON",IDC_RADIO_RON,"Button",BS_AUTORADIOBUTTON,146,73,45,8
+    CONTROL         "Dolar",IDC_RADIO_DOLAR,"Button",BS_AUTORADIOBUTTON,146,101,45,8
+    CONTROL         "Euro",IDC_RADIO_EURO,"Button",BS_AUTORADIOBUTTON,146,87,45,8
+    EDITTEXT        IDC_EDIT_RON_FINAL,316,35,88,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_EURO_FINAL,316,59,88,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDIT_DOLAR_FINAL,316,84,88,14,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "RON",IDC_STATIC,412,38,26,11
+    LTEXT           "Euro",IDC_STATIC,412,62,26,11
+    LTEXT           "Dolari",IDC_STATIC,412,87,26,11
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 462
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 169
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// AFX_DIALOG_LAYOUT
+//
+
+IDD_DIALOG AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+#endif    // English (United States) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

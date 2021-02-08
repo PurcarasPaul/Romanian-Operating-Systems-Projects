@@ -1,0 +1,3 @@
+﻿  Dialog.cpp
+C:\Users\Smurf\source\repos\Laborator1_Tema1\Dialog.cpp(8,6): error C2374: 'number_generated': redefinition; multiple initialization
+C:\Users\Smurf\source\repos\Laborator1_Tema1\Dialog.cpp(6): message : see declaration of 'number_generated'
